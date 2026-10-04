@@ -6,7 +6,7 @@ metadata:
   labels:
     batch: june-2026
 spec:
-  replicas: 3
+  replicas: 5
   selector:
     matchLabels: 
       batch: june-2026
